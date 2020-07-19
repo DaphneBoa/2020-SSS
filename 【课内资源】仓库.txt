@@ -1,0 +1,5 @@
+git@code.aliyun.com:fwqcuc/soft-sec.git
+
+【clone】
+1. git方式，需要先注册一个阿里云的账号，然后增加秘钥对。
+2. git clone https://code.aliyun.com/fwqcuc/soft-sec.git
